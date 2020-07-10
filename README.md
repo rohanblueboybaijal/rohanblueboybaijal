@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Rohan Baijal. Why Blueboy :| ? Let's leave that for another file ;)   
+
+I'm from New Delhi and am currently a sophomore in IITK.   
+I'm currently exploring Robotics and dabble a tiny bit in Deep Learning. I hope to work at the intersection of these 2 fields and create something interesting.   
+I have some experience with cryptoCurrency as well.   
+I also like to participate in Competitive Programming Contests because it's really fun.   
+
+Collab ? Perhaps something related to Deep Learning or BlockChain applications.  
+
+
 <!--
 **rohanblueboybaijal/rohanblueboybaijal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
