@@ -2,12 +2,9 @@
 
 I'm Rohan Baijal. Why Blueboy :| ? The simple and not so mysterious answer is that I've been fond of Jazz and Blues for a while :p
 
-I'm from New Delhi and am currently a Junior Undergraduate in the EECS Department at IIT Kanpur.
-I'm currently exploring Robotics and dabble a tiny bit in Deep Learning. I hope to work at the intersection of these 2 fields and create something interesting.   
+I'm from New Delhi and am currently a first year PhD student in the CSE Department at University of Washington.
+I am interested inn the intersection of learning and planning to enable robots to perform tasks in complex environments. I hope to work at the intersection of these 2 fields and create something interesting.   
 I have some experience with cryptoCurrency as well.   
-I also like to participate in Competitive Programming Contests because it's really fun.   
-
-Collab ? Perhaps something related to Deep Learning or BlockChain applications.  
 
 
 <!--
